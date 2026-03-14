@@ -13,11 +13,3 @@ Autor: Hubert Kaminski (hubsonpolaczek)
 * Odrzucanie śmieci: Skrypt potrafi ukryć oferty od sprzedawców, którzy nie wysyłają do Polski (Unavailable in Poland), oraz płyty bez oryginalnych okładek (Generic / No Cover).
 * Ostrzeżenia i negocjacje: Słabi lub nowi sprzedawcy są wyraźnie oznaczani na czerwono lub żółto. Z kolei jeśli ktoś udostępnił opcję "Zaproponuj cenę" (Make Offer), skrypt doklei tam wyraźny niebieski przycisk.
 * Nawigacja: Zamiast klikać "Następna strona", wpisujesz numer i od razu przeskakujesz w wybrane miejsce.
-
-## Jak to zainstalować?
-
-1. Zainstaluj darmowy dodatek Tampermonkey w swojej przeglądarce (dostępny dla Chrome, Firefox, Edge, itp.).
-2. Kliknij w poniższy link, aby dodać skrypt:
-[KLIKNIJ TUTAJ ABY ZAINSTALOWAĆ SKRYPT](../../raw/main/discogs-enhancer-pro.user.js)
-*(Pamiętaj, żeby podmienić ten link na bezpośredni odnośnik "Raw" do swojego pliku w repozytorium)*
-3. Wejdź na giełdę Discogs (Marketplace) lub stronę konkretnego wydania. Panel pojawi się sam i możesz go swobodnie przesuwać po ekranie.
